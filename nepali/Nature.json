@@ -1,0 +1,94 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "The Beauty of the Forest",
+      "author": "John Doe",
+      "excerpt": "Amid the towering trees and whispering leaves, the forest holds secrets of the earth...",
+      "full_text": "Amid the towering trees and whispering leaves, the forest holds secrets of the earth. The dappled sunlight dances on the forest floor, while the melodies of birds create a symphony of nature’s own design. Each leaf and branch tells a story of growth and renewal, a testament to the enduring beauty of the natural world.",
+      "image": "https://example.com/poems/nature/forest.png",
+      "date_published": "2023-04-15"
+    },
+    {
+      "id": 2,
+      "title": "A Walk by the River",
+      "author": "Jane Smith",
+      "excerpt": "Walking beside the gentle river, the flowing water reflects the sky’s azure hue...",
+      "full_text": "Walking beside the gentle river, the flowing water reflects the sky’s azure hue. The soft murmur of the current sings a lullaby to weary souls, as the willows dip their branches into the cool embrace. Here, one finds solace in the serene rhythm of nature’s flowing heart.",
+      "image": "https://example.com/poems/nature/river.png",
+      "date_published": "2023-05-10"
+    },
+    {
+      "id": 3,
+      "title": "Sunrise Over the Mountains",
+      "author": "Emily Johnson",
+      "excerpt": "As dawn breaks over the majestic mountains, the first light paints the peaks with gold...",
+      "full_text": "As dawn breaks over the majestic mountains, the first light paints the peaks with gold. The sky transforms from darkness to a canvas of colors, where the sun’s gentle rise heralds a new day. The crisp air and panoramic views offer a moment of peace and wonder at nature’s grandeur.",
+      "image": "https://example.com/poems/nature/mountains.png",
+      "date_published": "2023-06-22"
+    },
+    {
+      "id": 4,
+      "title": "The Whispering Wind",
+      "author": "Michael Brown",
+      "excerpt": "The wind’s gentle whisper carries tales from distant lands, a soft and soothing sound...",
+      "full_text": "The wind’s gentle whisper carries tales from distant lands, a soft and soothing sound that rustles through the trees and brushes against the skin. It speaks in a language known to all who listen, a reminder of nature’s ever-present, yet elusive presence.",
+      "image": "https://example.com/poems/nature/wind.png",
+      "date_published": "2023-07-30"
+    },
+    {
+      "id": 5,
+      "title": "Autumn Leaves",
+      "author": "Alice Davis",
+      "excerpt": "In the fall, the leaves turn a brilliant array of colors, a fleeting yet beautiful sight...",
+      "full_text": "In the fall, the leaves turn a brilliant array of colors, a fleeting yet beautiful sight that captures the essence of change. As they drift to the ground, they create a colorful carpet that signals the approach of winter and the cyclical nature of life.",
+      "image": "https://example.com/poems/nature/autumn_leaves.png",
+      "date_published": "2023-08-12"
+    },
+    {
+      "id": 6,
+      "title": "The Ocean’s Embrace",
+      "author": "Robert Clark",
+      "excerpt": "The waves crash against the shore, a timeless dance of water and sand...",
+      "full_text": "The waves crash against the shore, a timeless dance of water and sand. The ocean’s vastness holds mysteries deep, its rhythmic ebb and flow a soothing presence. Here, one finds both adventure and peace, in the endless blue horizon.",
+      "image": "https://example.com/poems/nature/ocean.png",
+      "date_published": "2023-09-05"
+    },
+    {
+      "id": 7,
+      "title": "Spring’s Renewal",
+      "author": "Laura White",
+      "excerpt": "With the arrival of spring, the world awakens from its winter slumber...",
+      "full_text": "With the arrival of spring, the world awakens from its winter slumber. Blossoms bloom, filling the air with fragrant promise, as life returns in vibrant hues. Spring’s renewal is a celebration of rebirth and the enduring cycle of nature.",
+      "image": "https://example.com/poems/nature/spring.png",
+      "date_published": "2023-10-10"
+    },
+    {
+      "id": 8,
+      "title": "Snowy Silence",
+      "author": "William Harris",
+      "excerpt": "In the stillness of winter, snow blankets the earth in a quiet hush...",
+      "full_text": "In the stillness of winter, snow blankets the earth in a quiet hush. The world is transformed into a pristine white landscape, where every sound is softened by the snow’s embrace. This snowy silence offers a moment of calm and reflection.",
+      "image": "https://example.com/poems/nature/snow.png",
+      "date_published": "2023-11-20"
+    },
+    {
+      "id": 9,
+      "title": "The Desert’s Whisper",
+      "author": "Anna Green",
+      "excerpt": "Amid the sands and scorching sun, the desert holds a quiet beauty...",
+      "full_text": "Amid the sands and scorching sun, the desert holds a quiet beauty. Its vast emptiness speaks of resilience and endurance, where life finds a way against the odds. The desert’s whisper is a tale of survival and stark, yet profound beauty.",
+      "image": "https://example.com/poems/nature/desert.png",
+      "date_published": "2023-12-15"
+    },
+    {
+      "id": 10,
+      "title": "Rainy Day Reflections",
+      "author": "Samantha Lee",
+      "excerpt": "Raindrops patter against the window, a soothing rhythm of nature’s tears...",
+      "full_text": "Raindrops patter against the window, a soothing rhythm of nature’s tears. The grey skies and gentle showers create a backdrop for introspection and calm. On a rainy day, the world slows down, offering a chance to reflect and find peace in the quiet moments.",
+      "image": "https://example.com/poems/nature/rain.png",
+      "date_published": "2024-01-08"
+    }
+  ]
+}
