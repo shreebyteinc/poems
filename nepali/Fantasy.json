@@ -1,0 +1,22 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "Realm of Dragons",
+      "author": "Liam Harrison",
+      "excerpt": "In the realm of dragons, where fire meets sky...",
+      "full_text": "In the realm of dragons, where fire meets sky. Wings of myth, scales of shimmering gold, a world of ancient tales and untold wonders. Dare to dream, for in fantasy's embrace, legends come alive.",
+      "image": "https://example.com/poems/fantasy/realm_of_dragons.png",
+      "date_published": "2023-06-30"
+    },
+    {
+      "id": 2,
+      "title": "Enchanted Forest",
+      "author": "Ava Taylor",
+      "excerpt": "In the enchanted forest, whispers of magic weave through the trees...",
+      "full_text": "In the enchanted forest, whispers of magic weave through the trees. Faeries dance, unicorns roam, a tapestry of wonder and whimsy. Lose yourself in the labyrinth of dreams, where reality bends and fantasy reigns.",
+      "image": "https://example.com/poems/fantasy/enchanted_forest.png",
+      "date_published": "2023-07-14"
+    }
+  ]
+}
