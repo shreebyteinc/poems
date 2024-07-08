@@ -1,0 +1,22 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "Divine Light",
+      "author": "Mason Green",
+      "excerpt": "In the embrace of divine light, hearts find peace...",
+      "full_text": "In the embrace of divine light, hearts find peace. Wisdom's whispers, prayers in the wind, a journey of faith and enlightenment. Seek the sacred, for in spirituality's sanctuary, souls awaken.",
+      "image": "https://example.com/poems/spiritual/divine_light.png",
+      "date_published": "2023-10-10"
+    },
+    {
+      "id": 2,
+      "title": "Path of Serenity",
+      "author": "Mia Anderson",
+      "excerpt": "In the path of serenity, harmony unfolds like petals in bloom...",
+      "full_text": "In the path of serenity, harmony unfolds like petals in bloom. Tranquil waters, mountain heights, a connection to the universe and the self. Embrace the journey, for in spiritual grace, true peace resides.",
+      "image": "https://example.com/poems/spiritual/path_of_serenity.png",
+      "date_published": "2023-11-15"
+    }
+  ]
+}
