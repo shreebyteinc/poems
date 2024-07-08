@@ -1,0 +1,22 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "Laughter's Echo",
+      "author": "James White",
+      "excerpt": "In laughter's echo, joy dances like sunlight on water...",
+      "full_text": "In laughter's echo, joy dances like sunlight on water. Moments of silliness, like bubbles in champagne, fizzing with infectious delight. Embrace the mirth, for in laughter's embrace, we find solace.",
+      "image": "https://example.com/poems/humor/laughter_echo.png",
+      "date_published": "2023-04-10"
+    },
+    {
+      "id": 2,
+      "title": "The Jester's Song",
+      "author": "Sophie Adams",
+      "excerpt": "In jest and jesting, the world's woes wane...",
+      "full_text": "In jest and jesting, the world's woes wane. A jester's grin, a comic's heart, spinning tales of whimsy and absurdity. For in laughter's court, even kings bow to folly's crown.",
+      "image": "https://example.com/poems/humor/jesters_song.png",
+      "date_published": "2023-05-25"
+    }
+  ]
+}
