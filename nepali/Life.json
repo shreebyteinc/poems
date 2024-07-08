@@ -1,0 +1,94 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "The Journey",
+      "author": "Emma Thompson",
+      "excerpt": "Life is a journey, with paths unknown and destinations unseen...",
+      "full_text": "Life is a journey, with paths unknown and destinations unseen. We walk through valleys of sorrow and climb peaks of joy, learning and growing with each step. The journey is the destination, a tapestry woven with experiences and memories.",
+      "image": "https://example.com/poems/life/journey.png",
+      "date_published": "2023-01-12"
+    },
+    {
+      "id": 2,
+      "title": "Moments in Time",
+      "author": "Ethan Harris",
+      "excerpt": "Life is composed of moments, fleeting and precious...",
+      "full_text": "Life is composed of moments, fleeting and precious. Each breath, each heartbeat, a testament to our existence. Cherish the moments, for they are the threads that weave the fabric of our lives.",
+      "image": "https://example.com/poems/life/moments.png",
+      "date_published": "2023-02-18"
+    },
+    {
+      "id": 3,
+      "title": "Echoes of Yesterday",
+      "author": "Sophia Wright",
+      "excerpt": "The past whispers in the wind, echoing through the corridors of time...",
+      "full_text": "The past whispers in the wind, echoing through the corridors of time. Memories, both sweet and bitter, shape who we are. Embrace the echoes, for they are the foundations of our present and the guiding stars of our future.",
+      "image": "https://example.com/poems/life/echoes.png",
+      "date_published": "2023-03-25"
+    },
+    {
+      "id": 4,
+      "title": "Seasons of Life",
+      "author": "Liam Martinez",
+      "excerpt": "Life is like the changing seasons, each bringing its own beauty and challenges...",
+      "full_text": "Life is like the changing seasons, each bringing its own beauty and challenges. Spring's renewal, summer's warmth, autumn's reflection, and winter's introspection. Embrace each season, for they are the rhythms of our lives.",
+      "image": "https://example.com/poems/life/seasons.png",
+      "date_published": "2023-04-30"
+    },
+    {
+      "id": 5,
+      "title": "Crossroads",
+      "author": "Olivia Lewis",
+      "excerpt": "At the crossroads of life, choices define our paths...",
+      "full_text": "At the crossroads of life, choices define our paths. Each decision, a step towards a new horizon. The roads we choose shape our journey, with each turn offering lessons and growth. Embrace the uncertainty, for it is where life truly happens.",
+      "image": "https://example.com/poems/life/crossroads.png",
+      "date_published": "2023-05-15"
+    },
+    {
+      "id": 6,
+      "title": "Winds of Change",
+      "author": "Mason Clark",
+      "excerpt": "Change is the only constant, a force that shapes our lives...",
+      "full_text": "Change is the only constant, a force that shapes our lives. Like the wind, it can be gentle or fierce, bringing new opportunities and challenges. Embrace the winds of change, for they carry us to new heights and horizons.",
+      "image": "https://example.com/poems/life/change.png",
+      "date_published": "2023-06-20"
+    },
+    {
+      "id": 7,
+      "title": "Threads of Existence",
+      "author": "Isabella Walker",
+      "excerpt": "Our lives are woven from threads of experience and emotion...",
+      "full_text": "Our lives are woven from threads of experience and emotion. Each thread, a story, a moment in time. Together, they create the tapestry of our existence, vibrant and unique. Cherish each thread, for they are the essence of who we are.",
+      "image": "https://example.com/poems/life/threads.png",
+      "date_published": "2023-07-25"
+    },
+    {
+      "id": 8,
+      "title": "Reflections",
+      "author": "James Robinson",
+      "excerpt": "In quiet moments of reflection, we find clarity and peace...",
+      "full_text": "In quiet moments of reflection, we find clarity and peace. Looking back on our journey, we see the lessons learned and the growth achieved. Embrace reflection, for it is through understanding our past that we navigate our future.",
+      "image": "https://example.com/poems/life/reflections.png",
+      "date_published": "2023-08-30"
+    },
+    {
+      "id": 9,
+      "title": "Ebb and Flow",
+      "author": "Ava Wilson",
+      "excerpt": "Life ebbs and flows like the tides, with highs and lows...",
+      "full_text": "Life ebbs and flows like the tides, with highs and lows. In moments of joy and sorrow, we find our strength and resilience. Embrace the ebb and flow, for it is the rhythm of life, ever-changing yet constant.",
+      "image": "https://example.com/poems/life/ebb_flow.png",
+      "date_published": "2023-09-15"
+    },
+    {
+      "id": 10,
+      "title": "The Tapestry of Life",
+      "author": "Lucas Scott",
+      "excerpt": "Life is a tapestry, woven with threads of love, loss, joy, and pain...",
+      "full_text": "Life is a tapestry, woven with threads of love, loss, joy, and pain. Each experience adds color and depth, creating a unique and beautiful design. Embrace the tapestry, for it is a reflection of your journey and the essence of who you are.",
+      "image": "https://example.com/poems/life/tapestry.png",
+      "date_published": "2023-10-25"
+    }
+  ]
+}
