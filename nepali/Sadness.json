@@ -1,0 +1,22 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "Tears of Solitude",
+      "author": "Sophia Roberts",
+      "excerpt": "In solitude, tears fall like rain, echoing the ache within...",
+      "full_text": "In solitude, tears fall like rain, echoing the ache within. Memories linger like shadows, haunting the corners of my heart. Yet through the pain, I find strength, a flicker of hope in the darkness.",
+      "image": "https://example.com/poems/sadness/tears_of_solitude.png",
+      "date_published": "2023-02-14"
+    },
+    {
+      "id": 2,
+      "title": "Broken Dreams",
+      "author": "Ethan Davis",
+      "excerpt": "In shattered dreams, echoes of what could have been...",
+      "full_text": "In shattered dreams, echoes of what could have been. Fragments of hope scattered like dust, lost in the winds of change. Yet amidst the ruins, a seed of resilience grows, forging a path towards healing.",
+      "image": "https://example.com/poems/sadness/broken_dreams.png",
+      "date_published": "2023-03-01"
+    }
+  ]
+}
