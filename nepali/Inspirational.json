@@ -1,0 +1,22 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "Rise and Shine",
+      "author": "Grace Miller",
+      "excerpt": "With every dawn, a new chance to rise and shine...",
+      "full_text": "With every dawn, a new chance to rise and shine. The world awaits your light, your strength, your vision. Embrace the day with courage and hope, for within you lies the power to overcome and inspire.",
+      "image": "https://example.com/poems/inspirational/rise_and_shine.png",
+      "date_published": "2023-03-21"
+    },
+    {
+      "id": 2,
+      "title": "Unbreakable Spirit",
+      "author": "Daniel Evans",
+      "excerpt": "In the face of adversity, your spirit remains unbreakable...",
+      "full_text": "In the face of adversity, your spirit remains unbreakable. Challenges are but stepping stones to greatness. Believe in your strength, embrace your journey, and let your unbreakable spirit lead the way to your dreams.",
+      "image": "https://example.com/poems/inspirational/unbreakable_spirit.png",
+      "date_published": "2023-04-10"
+    }
+  ]
+}
