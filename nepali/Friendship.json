@@ -1,0 +1,22 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "Bond of Friendship",
+      "author": "Emma Johnson",
+      "excerpt": "A true friend is a treasure, a bond that time cannot sever...",
+      "full_text": "A true friend is a treasure, a bond that time cannot sever. Through laughter and tears, our friendship grows stronger, a testament to trust and love. In you, I find a confidant, a partner in life's journey.",
+      "image": "https://example.com/poems/friendship/bond_of_friendship.png",
+      "date_published": "2023-02-12"
+    },
+    {
+      "id": 2,
+      "title": "Friends Forever",
+      "author": "Liam Smith",
+      "excerpt": "In the garden of life, friends are the flowers that bloom...",
+      "full_text": "In the garden of life, friends are the flowers that bloom, bringing color and joy to our days. With every shared moment, our roots grow deeper, creating a friendship that stands the test of time.",
+      "image": "https://example.com/poems/friendship/friends_forever.png",
+      "date_published": "2023-03-05"
+    }
+  ]
+}
