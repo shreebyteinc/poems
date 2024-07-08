@@ -1,0 +1,94 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "Endless Love",
+      "author": "Sophia Williams",
+      "excerpt": "In your eyes, I find the stars, and in your smile, the sun...",
+      "full_text": "In your eyes, I find the stars, and in your smile, the sun. Our love, an endless journey, bound by hearts as one. With every kiss, my soul ignites, a flame that never dies. For you, my love, I'll traverse the skies.",
+      "image": "https://example.com/poems/love/endless_love.png",
+      "date_published": "2023-02-14"
+    },
+    {
+      "id": 2,
+      "title": "A Moment in Time",
+      "author": "James Anderson",
+      "excerpt": "When our hands intertwined, time seemed to stand still...",
+      "full_text": "When our hands intertwined, time seemed to stand still. In that fleeting moment, the world melted away, leaving just us. Your touch, your warmth, an anchor in the storm, a moment in time where love was all that mattered.",
+      "image": "https://example.com/poems/love/moment_in_time.png",
+      "date_published": "2023-03-01"
+    },
+    {
+      "id": 3,
+      "title": "Whispers of the Heart",
+      "author": "Olivia Johnson",
+      "excerpt": "Softly, your words caress my heart, like a gentle breeze...",
+      "full_text": "Softly, your words caress my heart, like a gentle breeze. Each whisper, a promise of forever, wrapped in tenderness. In your embrace, I find my home, a sanctuary of love where our souls speak without words.",
+      "image": "https://example.com/poems/love/whispers_of_the_heart.png",
+      "date_published": "2023-04-10"
+    },
+    {
+      "id": 4,
+      "title": "Love's Embrace",
+      "author": "Liam Brown",
+      "excerpt": "In the quiet moments, I feel your love surround me...",
+      "full_text": "In the quiet moments, I feel your love surround me. Your embrace, a shield against the world, where I find peace. Together, we dance to the rhythm of our hearts, a love so profound it defies words.",
+      "image": "https://example.com/poems/love/loves_embrace.png",
+      "date_published": "2023-05-25"
+    },
+    {
+      "id": 5,
+      "title": "Eternal Flame",
+      "author": "Ava Davis",
+      "excerpt": "Our love burns bright, an eternal flame that guides us...",
+      "full_text": "Our love burns bright, an eternal flame that guides us through the darkest nights. With each passing day, our bond grows stronger, unyielding and true. In your arms, I find my forever.",
+      "image": "https://example.com/poems/love/eternal_flame.png",
+      "date_published": "2023-06-30"
+    },
+    {
+      "id": 6,
+      "title": "Love’s Journey",
+      "author": "Noah Martinez",
+      "excerpt": "Together, we walk the path of love, hand in hand...",
+      "full_text": "Together, we walk the path of love, hand in hand. Through valleys low and mountains high, our journey is one of unity and trust. Each step taken is a testament to our unwavering love, a journey with no end.",
+      "image": "https://example.com/poems/love/loves_journey.png",
+      "date_published": "2023-07-14"
+    },
+    {
+      "id": 7,
+      "title": "Sweet Surrender",
+      "author": "Isabella Wilson",
+      "excerpt": "In your arms, I surrender, finding solace in your love...",
+      "full_text": "In your arms, I surrender, finding solace in your love. The world fades away, leaving just us in a sweet embrace. Your love, a gentle tide, washes over me, bringing peace and joy.",
+      "image": "https://example.com/poems/love/sweet_surrender.png",
+      "date_published": "2023-08-22"
+    },
+    {
+      "id": 8,
+      "title": "The Dance of Love",
+      "author": "Mason Clark",
+      "excerpt": "We dance to the melody of our hearts, a rhythm only we know...",
+      "full_text": "We dance to the melody of our hearts, a rhythm only we know. In your eyes, I see my forever, in your smile, my home. Our love, a dance of souls entwined, moving in perfect harmony.",
+      "image": "https://example.com/poems/love/dance_of_love.png",
+      "date_published": "2023-09-05"
+    },
+    {
+      "id": 9,
+      "title": "Love’s Promise",
+      "author": "Mia Lewis",
+      "excerpt": "With every heartbeat, I promise my love to you...",
+      "full_text": "With every heartbeat, I promise my love to you. Through joy and sorrow, our love remains steadfast. In your eyes, I find my truth, in your embrace, my sanctuary. This is my promise, to love you forever.",
+      "image": "https://example.com/poems/love/loves_promise.png",
+      "date_published": "2023-10-10"
+    },
+    {
+      "id": 10,
+      "title": "Soulmates",
+      "author": "Lucas Lee",
+      "excerpt": "Our souls met long before our eyes did, a bond unbreakable...",
+      "full_text": "Our souls met long before our eyes did, a bond unbreakable by time or distance. In you, I found my other half, a love that completes me. Together, we are whole, two souls forever intertwined.",
+      "image": "https://example.com/poems/love/soulmates.png",
+      "date_published": "2023-11-15"
+    }
+  ]
+}
