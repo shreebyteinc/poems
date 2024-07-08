@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Nature",
+      "description": "Poems that explore the beauty and complexity of the natural world.",
+      "icon": "https://example.com/icons/nature.png"
+    },
+    {
+      "id": 2,
+      "name": "Love",
+      "description": "Poems that delve into the emotions and experiences of love and romance.",
+      "icon": "https://example.com/icons/love.png"
+    },
+    {
+      "id": 3,
+      "name": "Life",
+      "description": "Poems that reflect on the various aspects and stages of life.",
+      "icon": "https://example.com/icons/life.png"
+    },
+    {
+      "id": 4,
+      "name": "Inspirational",
+      "description": "Poems that aim to motivate and uplift the reader.",
+      "icon": "https://example.com/icons/inspirational.png"
+    },
+    {
+      "id": 5,
+      "name": "Friendship",
+      "description": "Poems that celebrate the bonds and experiences of friendship.",
+      "icon": "https://example.com/icons/friendship.png"
+    },
+    {
+      "id": 6,
+      "name": "Sadness",
+      "description": "Poems that express feelings of sorrow, grief, and melancholy.",
+      "icon": "https://example.com/icons/sadness.png"
+    },
+    {
+      "id": 7,
+      "name": "Humor",
+      "description": "Poems that use wit and humor to entertain and amuse.",
+      "icon": "https://example.com/icons/humor.png"
+    },
+    {
+      "id": 8,
+      "name": "Fantasy",
+      "description": "Poems that explore imaginative and fantastical themes.",
+      "icon": "https://example.com/icons/fantasy.png"
+    },
+    {
+      "id": 9,
+      "name": "Historical",
+      "description": "Poems that reflect on historical events and figures.",
+      "icon": "https://example.com/icons/historical.png"
+    },
+    {
+      "id": 10,
+      "name": "Spiritual",
+      "description": "Poems that delve into religious and spiritual themes.",
+      "icon": "https://example.com/icons/spiritual.png"
+    }
+  ]
+}
