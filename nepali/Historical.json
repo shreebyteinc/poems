@@ -1,0 +1,22 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "Echoes of Antiquity",
+      "author": "Noah Brown",
+      "excerpt": "In echoes of antiquity, whispers of kingdoms lost...",
+      "full_text": "In echoes of antiquity, whispers of kingdoms lost. Sands of time, tales etched in stone, the legacy of empires and conquerors. Explore the past, for in history's tapestry, lessons await.",
+      "image": "https://example.com/poems/historical/echoes_of_antiquity.png",
+      "date_published": "2023-08-22"
+    },
+    {
+      "id": 2,
+      "title": "Ancient Rhythms",
+      "author": "Isabella Carter",
+      "excerpt": "In ancient rhythms, the heartbeat of civilizations past...",
+      "full_text": "In ancient rhythms, the heartbeat of civilizations past. Pyramids rise, temples stand, echoes of cultures long gone. Uncover the mysteries, for in the annals of time, stories unfold.",
+      "image": "https://example.com/poems/historical/ancient_rhythms.png",
+      "date_published": "2023-09-05"
+    }
+  ]
+}
